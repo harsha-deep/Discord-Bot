@@ -12,3 +12,6 @@ https://user-images.githubusercontent.com/77527524/187047139-e5e935df-78b3-4e2f-
 ### Meme
 https://user-images.githubusercontent.com/77527524/187047184-0c9afa93-bda9-4686-ad55-e62dff2fed80.mp4
 
+### Logos
+Bot logos are taken from https://avatars.dicebear.com/
+
