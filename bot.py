@@ -34,4 +34,4 @@ async def on_message(message):
         [meme, author, title] = get_meme(tokens[1])
         await message.channel.send(meme)
         await message.channel.send(title)
-        await message.channel.send('Meme posted in r/%s by %s' % (subreddit, author))
+        await message.channel.send('Meme posted in r/%s by u/%s' % (subreddit, author))
